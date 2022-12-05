@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-   divby3(123);//True
+   divby3(1234);//True
     
   }//end of main method
   
@@ -10,9 +10,7 @@ class Main {
     while (div != 0) {
       sum += div % 10;
       div = div / 10;
-    }
-    
-    System.out.println(sum);
+    }   
     
     if(sum % 3 == 0) {
       System.out.println("This number divisible by 3");
