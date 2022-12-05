@@ -3,16 +3,16 @@
 
 1. *In your own words*, discuss what each String method does:
   * `.substring(a)`
-    * **YOUR WRITING HERE**
+    * **.substring(a) returns a substring from the given index.**
 
   * `.substring(a, b)`
-    * **YOUR WRITING HERE**
+    * **.substring(a, b) returns a substring from the given start index to end index.**
 
   * `.indexOf(str)`
-    * **YOUR WRITING HERE**
+    * **.indexOf(str) returns  **
 
   * `.equals(str)`
-    * **YOUR WRITING HERE**
+    * **.equals(str) compares two strings and returns true if equal and false if not equal**
 
 
 2. *In your own words*, discuss what the following `for` loop accomplishes for `String s`:
